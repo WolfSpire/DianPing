@@ -30,4 +30,49 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+<<<<<<< HEAD
+=======
+	<linkedResources>
+		<link>
+			<name>res/drawable-hdpi/main_index_home_normal.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_home_normal.png</locationURI>
+		</link>
+		<link>
+			<name>res/drawable-hdpi/main_index_home_pressed.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_home_pressed.png</locationURI>
+		</link>
+		<link>
+			<name>res/drawable-hdpi/main_index_my_normal.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_my_normal.png</locationURI>
+		</link>
+		<link>
+			<name>res/drawable-hdpi/main_index_my_pressed.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_my_pressed.png</locationURI>
+		</link>
+		<link>
+			<name>res/drawable-hdpi/main_index_search_normal.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_search_normal.png</locationURI>
+		</link>
+		<link>
+			<name>res/drawable-hdpi/main_index_search_pressed.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_search_pressed.png</locationURI>
+		</link>
+		<link>
+			<name>res/drawable-hdpi/main_index_tuan_normal.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_tuan_normal.png</locationURI>
+		</link>
+		<link>
+			<name>res/drawable-hdpi/main_index_tuan_pressed.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E7%B4%A0%E6%9D%90/main_index_tuan_pressed.png</locationURI>
+		</link>
+	</linkedResources>
+>>>>>>> refs/remotes/origin/Pengxy
 </projectDescription>

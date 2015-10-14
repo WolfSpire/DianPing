@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -24,3 +25,65 @@
         android:text="@string/click" />
 
 </RelativeLayout>
+=======
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hyx.dianping.MainActivity" >
+       <FrameLayout 
+            android:id="@+id/main_content"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" 
+            android:layout_weight="1"></FrameLayout>
+      
+         <RadioGroup
+               android:id="@+id/main_botton_tabs"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="horizontal" >
+
+              <RadioButton 
+                  android:id="@+id/main_home"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/main_home_selector"
+                  android:gravity="center"
+                  android:layout_weight="1"
+                  android:button="@null"
+                  android:text="@string/shouye"/>
+             
+              <RadioButton 
+                  android:id="@+id/main_tuan"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/main_tuan_selector"
+                  android:gravity="center"
+                 android:layout_weight="1"
+                 android:button="@null"
+                  android:text="@string/tuangou"/>
+              
+              <RadioButton 
+                  android:id="@+id/main_search"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/main_search_selector"
+                  android:gravity="center"
+                  android:layout_weight="1"
+                  android:button="@null"
+                  android:text="@string/faxian"/>
+              
+              <RadioButton 
+                  android:id="@+id/main_my"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:drawableTop="@drawable/main_my_selector"
+                  android:gravity="center"
+                  android:layout_weight="1"
+                  android:button="@null"
+                  android:text="@string/wode"/>
+   </RadioGroup>
+
+</LinearLayout>
+>>>>>>> refs/remotes/origin/Pengxy

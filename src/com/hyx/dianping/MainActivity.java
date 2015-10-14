@@ -13,8 +13,13 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
+<<<<<<< HEAD
 	@ViewInject(R.id.btn)
 	private Button btn;// 声明Button按钮；
+=======
+//	@ViewInject(R.id.btn)
+//	private Button btn;// 声明Button按钮；
+>>>>>>> refs/remotes/origin/Pengxy
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -33,12 +38,21 @@ public class MainActivity extends Activity {
 		// }
 		// });
 	}
+<<<<<<< HEAD
 
 	@OnClick(R.id.btn)
 	// 对事件进行一个绑定；
 	public void click(View view) {
 		Toast.makeText(MainActivity.this, "实现了点击", Toast.LENGTH_SHORT).show();
 	}
+=======
+//
+//	@OnClick(R.id.btn)
+//	// 对事件进行一个绑定；
+//	public void click(View view) {
+//		Toast.makeText(MainActivity.this, "实现了点击", Toast.LENGTH_SHORT).show();
+//	}
+>>>>>>> refs/remotes/origin/Pengxy
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -47,6 +61,11 @@ public class MainActivity extends Activity {
 		return true;
 	}
 
+<<<<<<< HEAD
+=======
+	
+	
+>>>>>>> refs/remotes/origin/Pengxy
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		// Handle action bar item clicks here. The action bar will
